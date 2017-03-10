@@ -1,0 +1,13 @@
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\bin\Release\ProtoAssignment.exe.config
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\bin\Release\txnlog.dat
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\bin\Release\ProtoAssignment.exe
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\bin\Release\ProtoAssignment.pdb
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\obj\Release\ProtoAssignment.exe
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\obj\Release\ProtoAssignment.pdb
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Release\txnlog.dat
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Release\ProtoAssignment.exe.config
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Release\ProtoAssignment.exe
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Release\ProtoAssignment.pdb
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\obj\Release\ProtoAssignment.csprojResolveAssemblyReference.cache
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\obj\Release\ProtoAssignment.exe
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\obj\Release\ProtoAssignment.pdb

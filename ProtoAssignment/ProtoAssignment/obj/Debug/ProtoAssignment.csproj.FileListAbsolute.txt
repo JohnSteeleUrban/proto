@@ -1,0 +1,21 @@
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\bin\Debug\ProtoAssignment.exe.config
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\bin\Debug\txnlog.dat
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\bin\Debug\ProtoAssignment.exe
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\bin\Debug\ProtoAssignment.pdb
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\obj\Debug\ProtoAssignment.exe
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\obj\Debug\ProtoAssignment.pdb
+c:\users\johnu\documents\visual studio 2015\Projects\ProtoAssignment\ProtoAssignment\obj\Debug\ProtoAssignment.csprojResolveAssemblyReference.cache
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Debug\ProtoAssignment.exe.config
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\obj\Debug\ProtoAssignment.exe
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\obj\Debug\ProtoAssignment.pdb
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Debug\txnlog.dat
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Debug\ProtoAssignment.exe
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Debug\ProtoAssignment.pdb
+C:\Users\JohnU\Downloads\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\obj\Debug\ProtoAssignment.csprojResolveAssemblyReference.cache
+C:\Users\JohnU\Desktop\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Debug\ProtoAssignment.exe.config
+C:\Users\JohnU\Desktop\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\obj\Debug\ProtoAssignment.exe
+C:\Users\JohnU\Desktop\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\obj\Debug\ProtoAssignment.pdb
+C:\Users\JohnU\Desktop\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Debug\txnlog.dat
+C:\Users\JohnU\Desktop\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Debug\ProtoAssignment.exe
+C:\Users\JohnU\Desktop\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\bin\Debug\ProtoAssignment.pdb
+C:\Users\JohnU\Desktop\homework-master\homework-master\proto\ProtoAssignment\ProtoAssignment\obj\Debug\ProtoAssignment.csprojResolveAssemblyReference.cache
